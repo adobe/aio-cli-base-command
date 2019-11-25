@@ -1,4 +1,7 @@
 # aio-cli-plugin-boilerplate
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/adobe/aio-cli-base-command.svg)](https://greenkeeper.io/)
+
 Basic working repo structure for Adobe teams to use as a starting point for their own plugins, and available as a github template to the @adobe github org.
 
 ## How to use this template
